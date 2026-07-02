@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Boutique Ad Execution"
+  short_description: "亚马逊精品广告结构搭建、核心词投放与阶段执行SOP"
+  default_prompt: "Use $amazon-boutique-ad-execution to build my Amazon boutique ad structure and execution plan."

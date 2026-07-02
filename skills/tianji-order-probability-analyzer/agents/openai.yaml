@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tianji Order Probability Analyzer"
+  short_description: "天机打法出单概率评分、eCPM拟合与竞品优化决策系统"
+  default_prompt: "Use $tianji-order-probability-analyzer to estimate order probability, fit eCPM, and decide bid or listing actions."

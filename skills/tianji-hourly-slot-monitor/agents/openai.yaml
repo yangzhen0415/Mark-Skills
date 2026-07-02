@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tianji Hourly Slot Monitor"
+  short_description: "天机打法每小时坑位监控、排名快照与竞价响应实操SOP"
+  default_prompt: "Use $tianji-hourly-slot-monitor to set up hourly Amazon ad slot monitoring and bid response rules."

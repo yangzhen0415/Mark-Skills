@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Ad Strategy Playbook"
+  short_description: "亚马逊广告全策略打法选择、组合执行与阶段规划实战手册"
+  default_prompt: "Use $amazon-ad-strategy-playbook to choose the right Amazon ad strategy mix for my product stage, goal, budget, and competition."
